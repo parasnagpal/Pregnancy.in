@@ -1,0 +1,118 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    background-image: url('./bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dropdown,.dropdown-menu{
+    display: inline;
+}
+.navbar-brand{
+    font-family: 'Tangerine', cursive;
+    font-size: 2em;
+}
+
+.navbar-light{
+    padding: .5rem 1rem;
+}
+
+.dropdown{
+    background-color:lightcoral !important;
+    color: white;
+    border-radius: 0px;
+    display: inline-block;
+}
+
+
+button.dropdown-toggle{
+    color:white !important;
+}
+.rounded
+{
+    border-radius: 2.25rem!important;
+}
+
+.card{
+    display: inline-block;
+    background-clip: border-box;
+    border: 1px solid rgba(240,128,128,.8);
+}
+.abc{
+    height:50%;
+    margin-left:5%;
+}
+
+li{
+    background-color: transparent !important;
+    font-family: 'Pacifico', cursive;
+    margin-left: 5%;
+    color: lightcoral;
+}
+.abc h1{
+    margin-top: 20%;
+    font-family: 'Courgette', cursive;
+    font-size: 2em;
+}
+.color{
+    color:lightcoral !important;
+}
+.color-white{
+    color:white;
+}
+img{
+    border-radius: 2.25rem!important;
+}
+.things{
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Tangerine',cursive;
+}
+#bottom,button{
+    background-color: lightcoral;
+}
+.s2,.s3{
+    float: right;
+    margin-right: 5%;
+}
+#bottom ul li{
+    font-size: 1em;
+    color:white;
+    list-style-type: none;
+    margin: 0%;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.rounded-1{
+    border-radius: 0.25rem !important; 
+}
+.form{
+    background-image: url('https://testicular.org.nz/wp-content/uploads/2016/12/Doctor-standing-up-014.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 70%;
+}
+.navbar{
+    justify-content: left;
+}
+form *{
+  display: block;
+}
+.form-control{
+    width: unset !important;
+    margin-top: 2%;
+}
+
+form{
+    position: relative;
+    top: 20%;
+
+}
+.nav-item{
+    float: right;
+    margin-right: 2em;
+    margin-top:1em;
+}
